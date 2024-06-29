@@ -1,6 +1,6 @@
 # Calculadora-2
 (MEU PRIMEIRO PROJETO!!!)
-(calculadora 1 não postei porque ela so somava e a 2 soma e subtrai, ela nao multiplica ou divide)
+(calculadora 1 não postei porque ela só somava e a 2 soma e subtrai, ela não multiplica ou divide)
 
 Essa calculadora somente pode SOMAR e SUBTRAIR. É apenas um projeto para brincar, ela tem um menu com a opção da calculadora, de créditos, as informações que você inseriu e sair da calculadora. Você pode usar para rodar o codigo o VS code (Visual Studio Code), Replit ou o proprio python, qualquer programa que simule o código.
 
